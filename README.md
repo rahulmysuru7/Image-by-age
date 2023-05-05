@@ -1,4 +1,5 @@
-# Lifespan Age Transformation Synthesis
+# Image by age
+
 ### [Project Page](https://grail.cs.washington.edu/projects/lifespan_age_transformation_synthesis/) | [Paper](https://arxiv.org/pdf/2003.09764.pdf) | [FFHQ-Aging Dataset](https://github.com/royorel/FFHQ-Aging-Dataset)
 
 [![Explore in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/royorel/Lifespan_Age_Transformation_Synthesis/blob/master/LATS_demo.ipynb)<br>
